@@ -1,0 +1,89 @@
+<scheduledscript scriptid="customscript_hris_post_emp_details_sch">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post employee details SCH</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/emp details sch.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch5">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch4">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch1">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch3">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_details_sch2">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post employee details SCH 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
+</scheduledscript>

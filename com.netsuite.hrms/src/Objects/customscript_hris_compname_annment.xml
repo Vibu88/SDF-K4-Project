@@ -1,0 +1,24 @@
+<scheduledscript scriptid="customscript_hris_compname_annment">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post Company Name SCH</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/hris_company_announcements.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_compname_annment">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post Company Name SCH</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
+</scheduledscript>

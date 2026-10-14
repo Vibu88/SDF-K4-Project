@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_gender">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Gender List</name>
+  <customvalues>
+    <customvalue scriptid="val_31006_2608638_399">
+      <abbreviation>A</abbreviation>
+      <isinactive>T</isinactive>
+      <value>All</value>
+    </customvalue>
+    <customvalue scriptid="val_18920_2772245_227">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Male</value>
+    </customvalue>
+    <customvalue scriptid="val_18921_2772245_906">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Female</value>
+    </customvalue>
+  </customvalues>
+</customlist>

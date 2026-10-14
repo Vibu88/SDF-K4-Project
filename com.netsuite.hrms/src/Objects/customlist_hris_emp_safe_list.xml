@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_emp_safe_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Saftly rule list</name>
+</customlist>

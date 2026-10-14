@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_exp_claim_det_post">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>POST Expense Claim Details (child rec)</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/POST Expense claim details mob to net.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_exp_claim_det_post">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>POST Expense Claim Details (child rec)</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

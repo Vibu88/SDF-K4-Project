@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_njt_emp_visa_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Visa Status</name>
+  <customvalues>
+    <customvalue scriptid="val_34597_2772245_100">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>In Progress</value>
+    </customvalue>
+    <customvalue scriptid="val_34598_2772245_509">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Renew Progress</value>
+    </customvalue>
+    <customvalue scriptid="val_34599_2772245_946">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Closed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_month_list_no">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Month list(not need)</name>
+</customlist>

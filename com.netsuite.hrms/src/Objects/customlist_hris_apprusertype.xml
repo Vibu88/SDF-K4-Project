@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_hris_apprusertype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Approval User Type</name>
+  <customvalues>
+    <customvalue scriptid="val_20542_2772245_756">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Role</value>
+    </customvalue>
+    <customvalue scriptid="val_20543_2772245_355">
+      <abbreviation>U</abbreviation>
+      <isinactive>F</isinactive>
+      <value>User</value>
+    </customvalue>
+    <customvalue scriptid="val_20544_2772245_233">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Supervisor</value>
+    </customvalue>
+    <customvalue scriptid="val_20545_2772245_741">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Project Supervisor</value>
+    </customvalue>
+    <customvalue scriptid="val_20546_2772245_162">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>HOD</value>
+    </customvalue>
+  </customvalues>
+</customlist>

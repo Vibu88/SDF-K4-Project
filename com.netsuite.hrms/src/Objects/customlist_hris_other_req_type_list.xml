@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_other_req_type_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Request Type List</name>
+</customlist>

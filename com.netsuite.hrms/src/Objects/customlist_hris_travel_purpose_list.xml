@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_hris_travel_purpose_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Travel purpose list</name>
+  <customvalues>
+    <customvalue scriptid="val_13341_9699878_464">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Business Trip / Conference Meeting / Exhibits</value>
+    </customvalue>
+    <customvalue scriptid="val_13342_9699878_289">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Client Visit / Meeting</value>
+    </customvalue>
+    <customvalue scriptid="val_13343_9699878_298">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Manufacturer’s Visit / Meeting</value>
+    </customvalue>
+    <customvalue scriptid="val_13344_9699878_501">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Trainings / Certifications</value>
+    </customvalue>
+    <customvalue scriptid="val_13345_9699878_887">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Others: (Pls. specify)</value>
+    </customvalue>
+  </customvalues>
+</customlist>

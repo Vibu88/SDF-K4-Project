@@ -1,0 +1,69 @@
+<scheduledscript scriptid="customscript_hris_post_attd_reg_appr_par">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post Attendance Regular Approval Param</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/post attendance reg approval(netsuite to mob)) with parameter.js]</scriptfile>
+  <scriptcustomfields>
+    <scriptcustomfield scriptid="custscript_hris_regattenid">
+      <accesslevel>2</accesslevel>
+      <aidescription></aidescription>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <defaultselection></defaultselection>
+      <defaultvalue></defaultvalue>
+      <description></description>
+      <displayheight></displayheight>
+      <displaytype>NORMAL</displaytype>
+      <displaywidth></displaywidth>
+      <dynamicdefault></dynamicdefault>
+      <fieldtype>CLOBTEXT</fieldtype>
+      <help></help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <label>Atten Reg Id</label>
+      <linktext></linktext>
+      <maxlength></maxlength>
+      <maxvalue></maxvalue>
+      <minvalue></minvalue>
+      <onparentdelete></onparentdelete>
+      <searchlevel>2</searchlevel>
+      <selectrecordtype></selectrecordtype>
+      <setting></setting>
+      <storevalue>T</storevalue>
+    </scriptcustomfield>
+  </scriptcustomfields>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_post_attd_reg_appr_pa1">
+      <custscript_hris_regattenid></custscript_hris_regattenid>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post Attendance Regular Approval Param 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_attd_reg_appr_par">
+      <custscript_hris_regattenid></custscript_hris_regattenid>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post Attendance Regular Approval Param</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
+</scheduledscript>

@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_hris_week_days">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Week Days List</name>
+  <customvalues>
+    <customvalue scriptid="val_26806_2772245_725">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sunday</value>
+    </customvalue>
+    <customvalue scriptid="val_26807_2772245_214">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Monday</value>
+    </customvalue>
+    <customvalue scriptid="val_26808_2772245_771">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Tuesday</value>
+    </customvalue>
+    <customvalue scriptid="val_26809_2772245_415">
+      <abbreviation>W</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Wednesday</value>
+    </customvalue>
+    <customvalue scriptid="val_26810_2772245_119">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Thursday</value>
+    </customvalue>
+    <customvalue scriptid="val_26811_2772245_810">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Friday</value>
+    </customvalue>
+    <customvalue scriptid="val_26812_2772245_255">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Saturday</value>
+    </customvalue>
+  </customvalues>
+</customlist>

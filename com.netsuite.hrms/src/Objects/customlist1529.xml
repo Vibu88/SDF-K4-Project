@@ -1,0 +1,54 @@
+<customlist scriptid="customlist1529">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Visa Renewal Department List</name>
+  <customvalues>
+    <customvalue scriptid="val_96940_2772245_516">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>DXB Housekeeping Ops</value>
+    </customvalue>
+    <customvalue scriptid="val_96941_2772245_672">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AUH Housekeeping Ops</value>
+    </customvalue>
+    <customvalue scriptid="val_96942_2772245_315">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Security Ops</value>
+    </customvalue>
+    <customvalue scriptid="val_96943_2772245_704">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>MEP</value>
+    </customvalue>
+    <customvalue scriptid="val_96944_2772245_458">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pest Control</value>
+    </customvalue>
+    <customvalue scriptid="val_96945_2772245_108">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Transport</value>
+    </customvalue>
+    <customvalue scriptid="val_96946_2772245_319">
+      <abbreviation>V</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Valet Parking</value>
+    </customvalue>
+    <customvalue scriptid="val_96947_2772245_442">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rope Access</value>
+    </customvalue>
+    <customvalue scriptid="val_96948_2772245_197">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Camp Admin</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_mr_check_sts">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Map Reduce status</name>
+  <customvalues>
+    <customvalue scriptid="val_29940_2772245_411">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_29941_2772245_646">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>In Progress</value>
+    </customvalue>
+    <customvalue scriptid="val_29942_2772245_236">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Closed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

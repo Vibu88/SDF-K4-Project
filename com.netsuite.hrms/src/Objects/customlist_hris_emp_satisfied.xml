@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_emp_satisfied">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Satisfied list</name>
+</customlist>

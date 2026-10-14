@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_hris_get_payslip_year_maste">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Get payslip year master</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/Get payslip year master.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_get_payslip_year_maste">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>Get payslip year master</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

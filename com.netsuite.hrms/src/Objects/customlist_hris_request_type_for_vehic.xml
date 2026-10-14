@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_request_type_for_vehic">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Request type for vehicle sessi</name>
+</customlist>

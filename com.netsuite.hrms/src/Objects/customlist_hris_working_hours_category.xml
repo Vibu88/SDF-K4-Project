@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_working_hours_category">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>working hours category</name>
+  <customvalues>
+    <customvalue scriptid="val_22629_2772245_362">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Normal</value>
+    </customvalue>
+    <customvalue scriptid="val_22630_2772245_264">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Ramadan</value>
+    </customvalue>
+    <customvalue scriptid="val_22631_2772245_384">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Summer</value>
+    </customvalue>
+  </customvalues>
+</customlist>

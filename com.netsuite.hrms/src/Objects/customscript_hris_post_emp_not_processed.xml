@@ -1,0 +1,24 @@
+<scheduledscript scriptid="customscript_hris_post_emp_not_processed">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post emp details not processed sch</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/emp details not processed sch.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_post_emp_not_processed">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post emp details not processed sch</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
+</scheduledscript>

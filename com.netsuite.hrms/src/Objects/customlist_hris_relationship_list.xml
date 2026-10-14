@@ -1,0 +1,54 @@
+<customlist scriptid="customlist_hris_relationship_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Relationship list</name>
+  <customvalues>
+    <customvalue scriptid="val_20612_2772245_104">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Father</value>
+    </customvalue>
+    <customvalue scriptid="val_20613_2772245_450">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Mother</value>
+    </customvalue>
+    <customvalue scriptid="val_20614_2772245_445">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Son</value>
+    </customvalue>
+    <customvalue scriptid="val_20615_2772245_121">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Daughter</value>
+    </customvalue>
+    <customvalue scriptid="val_20616_2772245_820">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Brother</value>
+    </customvalue>
+    <customvalue scriptid="val_20617_2772245_632">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sister</value>
+    </customvalue>
+    <customvalue scriptid="val_20618_2772245_402">
+      <abbreviation>W</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Wife</value>
+    </customvalue>
+    <customvalue scriptid="val_20619_2772245_257">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Husband</value>
+    </customvalue>
+    <customvalue scriptid="val_20620_2772245_837">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cousin</value>
+    </customvalue>
+  </customvalues>
+</customlist>

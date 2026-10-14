@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_njt_hired_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Hired status</name>
+  <customvalues>
+    <customvalue scriptid="val_34171_2772245_630">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_34172_2772245_572">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Hired</value>
+    </customvalue>
+    <customvalue scriptid="val_34173_2772245_383">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+  </customvalues>
+</customlist>

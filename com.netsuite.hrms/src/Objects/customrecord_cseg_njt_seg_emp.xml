@@ -1,0 +1,45 @@
+<customrecordtype scriptid="customrecord_cseg_njt_seg_emp">
+  <allowattachments>F</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>F</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowquickadd>F</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <customsegment>[type=customsegment, scriptid=cseg_njt_seg_emp]</customsegment>
+  <enabledle>F</enabledle>
+  <enablekeywords>F</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enableoptimisticlocking>F</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <icon></icon>
+  <iconbuiltin>T</iconbuiltin>
+  <iconindex></iconindex>
+  <includeinsearchmenu>F</includeinsearchmenu>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <instances>
+    <instance scriptid="val_83267_12194818_572">
+      <isinactive>F</isinactive>
+      <name>KFT00001 - Vijay Agaash</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_83286_12194818_369">
+      <isinactive>F</isinactive>
+      <name>KFT00002 - NJT Test Kiran Kumar</name>
+      <parent></parent>
+    </instance>
+  </instances>
+  <links>
+    <link>
+      <linkcategory>BASICSETUPCOMPANY</linkcategory>
+      <linklabel></linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customrecordtype>

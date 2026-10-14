@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_hris_payprocess_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Payprocess status</name>
+  <customvalues>
+    <customvalue scriptid="val_91179_2772245_407">
+      <abbreviation>o</abbreviation>
+      <isinactive>F</isinactive>
+      <value>open</value>
+    </customvalue>
+    <customvalue scriptid="val_91180_2772245_582">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Submit for Approval</value>
+    </customvalue>
+    <customvalue scriptid="val_91181_2772245_385">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pending Approval</value>
+    </customvalue>
+    <customvalue scriptid="val_91182_2772245_289">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_91183_2772245_109">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+    <customvalue scriptid="val_91184_2772245_356">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Hold</value>
+    </customvalue>
+    <customvalue scriptid="val_91185_2772245_337">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Reevaluation</value>
+    </customvalue>
+  </customvalues>
+</customlist>

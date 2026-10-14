@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_hris_visastatus">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HR Visa Status</name>
+  <customvalues>
+    <customvalue scriptid="val_34577_2772245_381">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Renewal</value>
+    </customvalue>
+    <customvalue scriptid="val_34578_2772245_643">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cancellation</value>
+    </customvalue>
+  </customvalues>
+</customlist>

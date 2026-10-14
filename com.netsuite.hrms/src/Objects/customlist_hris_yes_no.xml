@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_hris_yes_no">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS YesNo list</name>
+  <customvalues>
+    <customvalue scriptid="val_18945_2772245_136">
+      <abbreviation>Y</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Yes</value>
+    </customvalue>
+    <customvalue scriptid="val_18946_2772245_895">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>No</value>
+    </customvalue>
+  </customvalues>
+</customlist>

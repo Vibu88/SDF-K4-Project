@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hr_work_category">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HR - Work Category</name>
+  <customvalues>
+    <customvalue scriptid="val_13509_9699878_981">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Full Time</value>
+    </customvalue>
+    <customvalue scriptid="val_13510_9699878_153">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Part Time</value>
+    </customvalue>
+    <customvalue scriptid="val_13511_9699878_901">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Internship</value>
+    </customvalue>
+  </customvalues>
+</customlist>

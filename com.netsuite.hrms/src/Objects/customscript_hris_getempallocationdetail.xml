@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_hris_getempallocationdetail">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Get Employee Allocation Details</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/getemployeeallocationdetails.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_getempallocationdetail">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>Get Employee Allocation Details</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_hris_empstafftype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Staff Type</name>
+  <customvalues>
+    <customvalue scriptid="val_30841_2608638_188">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Technical</value>
+    </customvalue>
+    <customvalue scriptid="val_18936_2772245_530">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Non-Technical</value>
+    </customvalue>
+    <customvalue scriptid="val_18937_2772245_727">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Nil</value>
+    </customvalue>
+    <customvalue scriptid="val_18938_2772245_802">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sales</value>
+    </customvalue>
+    <customvalue scriptid="val_18939_2772245_595">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Labour</value>
+    </customvalue>
+  </customvalues>
+</customlist>

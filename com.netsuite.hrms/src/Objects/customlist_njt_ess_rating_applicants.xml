@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_njt_ess_rating_applicants">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Rating Applicants</name>
+  <customvalues>
+    <customvalue scriptid="val_95877_2772245_599">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_95878_2772245_794">
+      <abbreviation>2</abbreviation>
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_95879_2772245_445">
+      <abbreviation>3</abbreviation>
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+    <customvalue scriptid="val_95880_2772245_130">
+      <abbreviation>4</abbreviation>
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+    <customvalue scriptid="val_95881_2772245_468">
+      <abbreviation>5</abbreviation>
+      <isinactive>F</isinactive>
+      <value>5</value>
+    </customvalue>
+  </customvalues>
+</customlist>

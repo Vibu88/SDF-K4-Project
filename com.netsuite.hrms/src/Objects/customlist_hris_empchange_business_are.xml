@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_empchange_business_are">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Business Area</name>
+</customlist>

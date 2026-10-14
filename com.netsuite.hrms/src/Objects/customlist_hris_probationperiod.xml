@@ -1,0 +1,29 @@
+<customlist scriptid="customlist_hris_probationperiod">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Probation Period</name>
+  <customvalues>
+    <customvalue scriptid="val_20594_2772245_956">
+      <abbreviation>3</abbreviation>
+      <isinactive>F</isinactive>
+      <value>30</value>
+    </customvalue>
+    <customvalue scriptid="val_20595_2772245_826">
+      <abbreviation>6</abbreviation>
+      <isinactive>F</isinactive>
+      <value>60</value>
+    </customvalue>
+    <customvalue scriptid="val_20596_2772245_540">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>120</value>
+    </customvalue>
+    <customvalue scriptid="val_20597_2772245_332">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>180</value>
+    </customvalue>
+  </customvalues>
+</customlist>

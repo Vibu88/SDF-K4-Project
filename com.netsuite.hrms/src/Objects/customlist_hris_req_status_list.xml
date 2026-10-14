@@ -1,0 +1,29 @@
+<customlist scriptid="customlist_hris_req_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Request Status </name>
+  <customvalues>
+    <customvalue scriptid="val_27991_2772245_415">
+      <abbreviation>o</abbreviation>
+      <isinactive>F</isinactive>
+      <value>open</value>
+    </customvalue>
+    <customvalue scriptid="val_27992_2772245_106">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+    <customvalue scriptid="val_27993_2772245_665">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Close</value>
+    </customvalue>
+    <customvalue scriptid="val_27994_2772245_799">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Information Needed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

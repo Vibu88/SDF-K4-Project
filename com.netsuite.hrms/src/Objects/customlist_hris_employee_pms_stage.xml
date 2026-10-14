@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_hris_employee_pms_stage">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>PMS Stage</name>
+  <customvalues>
+    <customvalue scriptid="val_95788_2772245_800">
+      <abbreviation>K</abbreviation>
+      <isinactive>F</isinactive>
+      <value>KPI Definition</value>
+    </customvalue>
+    <customvalue scriptid="val_95789_2772245_587">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Self Evaluation-MID year</value>
+    </customvalue>
+    <customvalue scriptid="val_95790_2772245_417">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Manager Evaluation-MID year</value>
+    </customvalue>
+    <customvalue scriptid="val_95791_2772245_475">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Self Evaluation-Final stage</value>
+    </customvalue>
+    <customvalue scriptid="val_95792_2772245_727">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Manager Evaluation-Final stage</value>
+    </customvalue>
+    <customvalue scriptid="val_95793_2772245_701">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>HR Validation</value>
+    </customvalue>
+    <customvalue scriptid="val_95794_2772245_480">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Acknowledgment</value>
+    </customvalue>
+  </customvalues>
+</customlist>

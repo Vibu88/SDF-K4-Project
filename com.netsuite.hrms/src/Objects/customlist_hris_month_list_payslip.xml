@@ -1,0 +1,69 @@
+<customlist scriptid="customlist_hris_month_list_payslip">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Month List payslip</name>
+  <customvalues>
+    <customvalue scriptid="val_28021_2772245_818">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_28022_2772245_955">
+      <abbreviation>2</abbreviation>
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_28023_2772245_774">
+      <abbreviation>3</abbreviation>
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+    <customvalue scriptid="val_28024_2772245_186">
+      <abbreviation>4</abbreviation>
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+    <customvalue scriptid="val_28025_2772245_703">
+      <abbreviation>5</abbreviation>
+      <isinactive>F</isinactive>
+      <value>5</value>
+    </customvalue>
+    <customvalue scriptid="val_28026_2772245_387">
+      <abbreviation>6</abbreviation>
+      <isinactive>F</isinactive>
+      <value>6</value>
+    </customvalue>
+    <customvalue scriptid="val_28027_2772245_733">
+      <abbreviation>7</abbreviation>
+      <isinactive>F</isinactive>
+      <value>7</value>
+    </customvalue>
+    <customvalue scriptid="val_28028_2772245_635">
+      <abbreviation>8</abbreviation>
+      <isinactive>F</isinactive>
+      <value>8</value>
+    </customvalue>
+    <customvalue scriptid="val_28029_2772245_409">
+      <abbreviation>9</abbreviation>
+      <isinactive>F</isinactive>
+      <value>9</value>
+    </customvalue>
+    <customvalue scriptid="val_28030_2772245_392">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>10</value>
+    </customvalue>
+    <customvalue scriptid="val_28031_2772245_778">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>11</value>
+    </customvalue>
+    <customvalue scriptid="val_28032_2772245_228">
+      <abbreviation>1</abbreviation>
+      <isinactive>F</isinactive>
+      <value>12</value>
+    </customvalue>
+  </customvalues>
+</customlist>

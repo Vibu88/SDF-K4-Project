@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_get_exchange_rate">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>GET Exchange Rate</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/get exchange rate.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_get_exchange_rate">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>GET Exchange Rate</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_njt_monthly_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Monthly Status</name>
+  <customvalues>
+    <customvalue scriptid="val_37510_2772245_234">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_37511_2772245_656">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pending Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_37512_2772245_176">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+  </customvalues>
+</customlist>

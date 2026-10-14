@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_hris_staff_per_overall_rsul">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Evaluation Overall Result</name>
+  <customvalues>
+    <customvalue scriptid="val_44356868_5250636_sb2_778">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Distinguished</value>
+    </customvalue>
+    <customvalue scriptid="val_44356869_5250636_sb2_783">
+      <abbreviation>E</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Exceeds Expectation</value>
+    </customvalue>
+    <customvalue scriptid="val_44356870_5250636_sb2_433">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Meets Expectation</value>
+    </customvalue>
+    <customvalue scriptid="val_44356871_5250636_sb2_121">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Partially Meets Expectation</value>
+    </customvalue>
+    <customvalue scriptid="val_44356872_5250636_sb2_388">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Not Meets Expectation</value>
+    </customvalue>
+  </customvalues>
+</customlist>

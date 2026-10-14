@@ -1,0 +1,111 @@
+<scheduledscript scriptid="customscript_hris_post_lve_app_net_to_mo">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post leave application(net to mob)</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/Post lve app(net to mob)SCH.js]</scriptfile>
+  <scriptcustomfields>
+    <scriptcustomfield scriptid="custscript_leave_emp_id">
+      <accesslevel>2</accesslevel>
+      <aidescription></aidescription>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <defaultselection></defaultselection>
+      <defaultvalue></defaultvalue>
+      <description></description>
+      <displayheight></displayheight>
+      <displaytype>NORMAL</displaytype>
+      <displaywidth></displaywidth>
+      <dynamicdefault></dynamicdefault>
+      <fieldtype>CLOBTEXT</fieldtype>
+      <help></help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <label>Leaveid</label>
+      <linktext></linktext>
+      <maxlength></maxlength>
+      <maxvalue></maxvalue>
+      <minvalue></minvalue>
+      <onparentdelete></onparentdelete>
+      <searchlevel>2</searchlevel>
+      <selectrecordtype></selectrecordtype>
+      <setting></setting>
+      <storevalue>T</storevalue>
+    </scriptcustomfield>
+  </scriptcustomfields>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_post_lve_app_net_to_m3">
+      <custscript_leave_emp_id></custscript_leave_emp_id>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post leave application(net to mob) 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_lve_app_net_to_m4">
+      <custscript_leave_emp_id></custscript_leave_emp_id>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post leave application(net to mob) 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_lve_app_net_to_m2">
+      <custscript_leave_emp_id></custscript_leave_emp_id>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post leave application(net to mob) 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_lve_app_net_to_m1">
+      <custscript_leave_emp_id></custscript_leave_emp_id>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post leave application(net to mob) 2</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+    <scriptdeployment scriptid="customdeploy_hris_post_lve_app_net_to_mo">
+      <custscript_leave_emp_id></custscript_leave_emp_id>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>Post leave application(net to mob)</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2026-08-28</startdate>
+          <starttime>14:00:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
+</scheduledscript>

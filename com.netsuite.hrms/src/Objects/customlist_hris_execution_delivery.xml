@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_hris_execution_delivery">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Competencies List</name>
+  <customvalues>
+    <customvalue scriptid="val_31901_2772245_580">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value> Execution &amp; Delivery</value>
+    </customvalue>
+    <customvalue scriptid="val_31902_2772245_674">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Accountability</value>
+    </customvalue>
+  </customvalues>
+</customlist>

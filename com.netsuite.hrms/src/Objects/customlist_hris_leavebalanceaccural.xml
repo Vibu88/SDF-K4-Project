@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_leavebalanceaccural">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Leave Balance/Accrual</name>
+  <customvalues>
+    <customvalue scriptid="val_19346_2772245_878">
+      <abbreviation>Y</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Yearly</value>
+    </customvalue>
+    <customvalue scriptid="val_19347_2772245_509">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Monthly</value>
+    </customvalue>
+    <customvalue scriptid="val_19348_2772245_203">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Daily</value>
+    </customvalue>
+  </customvalues>
+</customlist>

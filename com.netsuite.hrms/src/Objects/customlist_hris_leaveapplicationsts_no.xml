@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_leaveapplicationsts_no">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Leave Application Sts(no)</name>
+  <customvalues>
+    <customvalue scriptid="val_18515_2772245_847">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_18516_2772245_418">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pending</value>
+    </customvalue>
+    <customvalue scriptid="val_18517_2772245_213">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+  </customvalues>
+</customlist>

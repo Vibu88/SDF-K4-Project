@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_hris_ticket_masterstatus">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Ticket Master Status</name>
+  <customvalues>
+    <customvalue scriptid="val_35176_2772245_627">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Active</value>
+    </customvalue>
+    <customvalue scriptid="val_35177_2772245_402">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>In-Active</value>
+    </customvalue>
+  </customvalues>
+</customlist>

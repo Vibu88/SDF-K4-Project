@@ -1,0 +1,7 @@
+<customlist scriptid="customlist_hris_pt_location_master">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS PT Location Master</name>
+</customlist>

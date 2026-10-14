@@ -1,0 +1,54 @@
+<customlist scriptid="customlist_hris_arithmatic_symbols">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Arithmatic Symbols</name>
+  <customvalues>
+    <customvalue scriptid="val_20550_2772245_333">
+      <abbreviation>%</abbreviation>
+      <isinactive>F</isinactive>
+      <value>%</value>
+    </customvalue>
+    <customvalue scriptid="val_20551_2772245_319">
+      <abbreviation>(</abbreviation>
+      <isinactive>F</isinactive>
+      <value>(</value>
+    </customvalue>
+    <customvalue scriptid="val_20552_2772245_751">
+      <abbreviation>)</abbreviation>
+      <isinactive>F</isinactive>
+      <value>)</value>
+    </customvalue>
+    <customvalue scriptid="val_20553_2772245_962">
+      <abbreviation>*</abbreviation>
+      <isinactive>F</isinactive>
+      <value>*</value>
+    </customvalue>
+    <customvalue scriptid="val_20554_2772245_613">
+      <abbreviation>+</abbreviation>
+      <isinactive>F</isinactive>
+      <value>+</value>
+    </customvalue>
+    <customvalue scriptid="val_20555_2772245_885">
+      <abbreviation>+</abbreviation>
+      <isinactive>F</isinactive>
+      <value>+</value>
+    </customvalue>
+    <customvalue scriptid="val_20556_2772245_339">
+      <abbreviation>-</abbreviation>
+      <isinactive>F</isinactive>
+      <value>-</value>
+    </customvalue>
+    <customvalue scriptid="val_20557_2772245_160">
+      <abbreviation>/</abbreviation>
+      <isinactive>F</isinactive>
+      <value>/</value>
+    </customvalue>
+    <customvalue scriptid="val_20558_2772245_818">
+      <abbreviation>=</abbreviation>
+      <isinactive>F</isinactive>
+      <value>=</value>
+    </customvalue>
+  </customvalues>
+</customlist>

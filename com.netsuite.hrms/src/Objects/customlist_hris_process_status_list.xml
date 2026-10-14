@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_process_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>HRIS Process Status List</name>
+  <customvalues>
+    <customvalue scriptid="val_99355_2772245_660">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Not Processed</value>
+    </customvalue>
+    <customvalue scriptid="val_99356_2772245_181">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Processed</value>
+    </customvalue>
+    <customvalue scriptid="val_99357_2772245_257">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Failed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

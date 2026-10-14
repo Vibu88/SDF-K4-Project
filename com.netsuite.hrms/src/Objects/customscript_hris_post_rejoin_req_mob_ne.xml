@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_hris_post_rejoin_req_mob_ne">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Post rejoin request</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/post rejoin request (mob to net).js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_post_rejoin_req_mob_ne">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>Post rejoin request</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_hris_postdaily_attendbio_rl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HRIS Post Daily Attendance Biometric</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HRMS API 2.1/Post Daily attendance biometric.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_postdaily_attendbio_rl">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>HRIS Post Daily Attendance Biometric</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>
